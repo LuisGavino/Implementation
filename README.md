@@ -21,20 +21,6 @@ A full-stack travel booking platform built with **Laravel 11**, **Bootstrap 5**,
 | CI/CD | GitHub Actions (test + lint + security audit → Railway deploy) |
 | Containerization | Docker + docker-compose |
 
-## Screenshots
-
-<p float="left">
-  <img src="screenshots/landing.png" width="48%" alt="Homepage" />
-  <img src="screenshots/destinations.png" width="48%" alt="Destinations" />
-</p>
-<p float="left">
-  <img src="screenshots/place_detail.png" width="48%" alt="Destination Detail" />
-  <img src="screenshots/admin_dashboard.png" width="48%" alt="Admin Dashboard" />
-</p>
-<p align="center">
-  <img src="screenshots/admin_crud.png" width="48%" alt="Admin CRUD" />
-</p>
-
 ## Architecture
 
 ```
