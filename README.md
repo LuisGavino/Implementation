@@ -221,7 +221,7 @@ Once seeded, you can log in with the pre-configured admin account:
 
 | Field | Value |
 |-------|-------|
-| Email | `samadmin@gmail.com` |
+| Email | `admin@example.com` |
 | Password | `password` |
 | Role | Admin |
 
@@ -264,7 +264,3 @@ tests/
     ├── Models/                        # UserTest, DestinationTest
     └── Services/                      # ImageServiceTest
 ```
-
-## License
-
-[MIT](LICENSE)
